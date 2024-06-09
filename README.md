@@ -2,7 +2,6 @@
 
 Welcome to my portfolio website! This repository contains the source code for my personal portfolio, showcasing my projects, skills, and experiences.
 
-![Portfolio Screenshot]("C:\Users\zeel sheth\OneDrive\Pictures\Screenshots\Screenshot_20240609_141517.png")
 
 ## Table of Contents
 
@@ -75,7 +74,7 @@ To run this project locally, follow these steps:
 
 ## Usage
 
-You can visit the live version of the portfolio at [yourwebsite.com](https://yourwebsite.com).
+You can visit the live version of the portfolio at [My_Portfolio](zeelsheth-portfolio.netlify.app).
 
 If you want to modify or enhance the portfolio, feel free to fork the repository and create a pull request with your changes.
 
