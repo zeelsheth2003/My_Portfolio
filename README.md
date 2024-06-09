@@ -74,7 +74,7 @@ To run this project locally, follow these steps:
 
 ## Usage
 
-You can visit the live version of the portfolio at [zeelsheth-portfolio.netlify.app](zeelsheth-portfolio.netlify.app).
+You can visit the live version of the portfolio at [zeelsheth-portfolio.netlify.app](https://zeelsheth-portfolio.netlify.app).
 
 If you want to modify or enhance the portfolio, feel free to fork the repository and create a pull request with your changes.
 
